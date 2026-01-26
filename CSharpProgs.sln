@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleKeyAvailableExample"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumExample", "EnumExample\EnumExample.csproj", "{138038EC-350B-4B67-AD9B-17D1E08A1BA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassExample", "ClassExample\ClassExample.csproj", "{38E127E7-6BE8-4A93-BA40-DECC54C6AC61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,6 +169,18 @@ Global
 		{138038EC-350B-4B67-AD9B-17D1E08A1BA4}.Release|x64.Build.0 = Release|Any CPU
 		{138038EC-350B-4B67-AD9B-17D1E08A1BA4}.Release|x86.ActiveCfg = Release|Any CPU
 		{138038EC-350B-4B67-AD9B-17D1E08A1BA4}.Release|x86.Build.0 = Release|Any CPU
+		{38E127E7-6BE8-4A93-BA40-DECC54C6AC61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E127E7-6BE8-4A93-BA40-DECC54C6AC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E127E7-6BE8-4A93-BA40-DECC54C6AC61}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{38E127E7-6BE8-4A93-BA40-DECC54C6AC61}.Debug|x64.Build.0 = Debug|Any CPU
+		{38E127E7-6BE8-4A93-BA40-DECC54C6AC61}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{38E127E7-6BE8-4A93-BA40-DECC54C6AC61}.Debug|x86.Build.0 = Debug|Any CPU
+		{38E127E7-6BE8-4A93-BA40-DECC54C6AC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E127E7-6BE8-4A93-BA40-DECC54C6AC61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38E127E7-6BE8-4A93-BA40-DECC54C6AC61}.Release|x64.ActiveCfg = Release|Any CPU
+		{38E127E7-6BE8-4A93-BA40-DECC54C6AC61}.Release|x64.Build.0 = Release|Any CPU
+		{38E127E7-6BE8-4A93-BA40-DECC54C6AC61}.Release|x86.ActiveCfg = Release|Any CPU
+		{38E127E7-6BE8-4A93-BA40-DECC54C6AC61}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

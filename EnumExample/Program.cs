@@ -17,9 +17,9 @@ class Program
 
         // Type Safety
         Fn(month, day); // works as it should
-        Fn(day, month); // compiler error because of order of arguments
+        //Fn(day, month); // compiler error because of order of arguments
         Fn(Months.April, Days.Tuesday); // works as it should
-        Fn(4, 2);   // compiler error becuase arguments are integers
+        //Fn(4, 2);   // compiler error becuase arguments are integers
         Fn((Months)5, (Days)6); // works as it should - typecasting
     }
 
