@@ -1,0 +1,5 @@
+Just some text
+in a file
+with multiple
+lines.
+0123456789
