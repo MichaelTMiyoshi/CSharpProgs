@@ -1,5 +1,9 @@
 ﻿namespace LoopGame;
-
+/*
+    Note:   This works best on an external console.
+            Go to settings and search for "external".
+            Then in C# -> debugger select externalTerminal from the dropdown.
+*/
 class Program
 {
     static void Main(string[] args)
