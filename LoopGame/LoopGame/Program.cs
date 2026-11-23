@@ -1,6 +1,6 @@
 ﻿namespace LoopGame;
 /*
-    Note:   This works best on an external console.
+    Note:   This works best on an external terminal/console.
             Go to settings and search for "external".
             Then in C# -> debugger select externalTerminal from the dropdown.
 */
